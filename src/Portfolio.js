@@ -37,6 +37,12 @@ export function Resume () {
                 authority: 'Chitkara University',
                 authorityWebSite: 'https://chitkara.edu.in',
                 rightSide: '2014 - 2018'
+              },
+              {
+                title: 'Bachelor in Computer Science',
+                authority: 'Chitkara University',
+                authorityWebSite: 'https://chitkara.edu.in',
+                rightSide: '2014 - 2018'
               }
             ]
           },
